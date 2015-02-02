@@ -12,7 +12,7 @@
 ##Использование
 
 ```html
-<span class="item item_ID item_ID_DATA"></span>
+<span class="mc item item_ID item_ID_DATA"></span>
 ```
 
 ID - id предмета
@@ -24,8 +24,8 @@ DATA - damage предмета
 ###Пример
 
 ```html
-<span class="item item_264 item_264_0"></span>
-<span class="item item_5 item_5_1"></span>
+<span class="mc item item_264 item_264_0"></span>
+<span class="mc item item_5 item_5_1"></span>
 ```
 
 ![иконки алмаза и досок](http://i.imgur.com/TSJnbXb.png)
